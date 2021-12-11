@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://tripleSim.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Game Development Blog</title>
+    <link>https://triplesim.github.io/</link>
+    <description>Recent content on Game Development Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Aug 2020 22:10:36 +0800</lastBuildDate>
     
-	<atom:link href="https://tripleSim.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://triplesim.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
-      <link>https://tripleSim.github.io/post/blog/</link>
+      <title>Blog1</title>
+      <link>https://triplesim.github.io/post/blog/</link>
       <pubDate>Sat, 29 Aug 2020 22:10:36 +0800</pubDate>
       
-      <guid>https://tripleSim.github.io/post/blog/</guid>
+      <guid>https://triplesim.github.io/post/blog/</guid>
       <description>Hello World
  test1 test2  Chapter 1  aaa bbb  Chapter 2 -ccc
  </description>
